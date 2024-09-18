@@ -70,3 +70,4 @@ I don't know his email, that is a pity.
 ### Version History
 
 - May 9, 2024: Alpha
+- June 13, 2024: Beta
