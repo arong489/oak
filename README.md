@@ -2,8 +2,8 @@
 
 ## Yinyou Map
 
-**Version:** Alpha  
-**Release Date:** May 9, 2024  
+**Version:** Beta  
+**Release Date:** June 13, 2024  
 **Author(s):** team oak
   - [KnightQuay](https://github.com/KnightQuay)
   - [Endoctrine](https://github.com/Endoctrine)
